@@ -1,6 +1,6 @@
 A Home Assistant integration for your Reolink security NVR/cameras. It enables you to detect motion, control IR lights, recording, and sending emails.
 
-*Configuration guide can be found [here](https://github.com/JimStar/reolink_cctv/blob/master/README.md).*
+*Configuration guide can be found [here](https://github.com/taylorsegell/reolink_ha/blob/master/README.md).*
 
 
 {% if installed %}
