@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: Reolink NVR/cameras add-on repository
-url: 'https://github.com/JimStar/reolink_cctv'
-maintainer: JimStar <bubukis@gmail.com>
+url: 'https://github.com/taylorsegell/reolink_ha'
+maintainer: TJ Segell <tjsegell@gmail.com>
