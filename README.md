@@ -1,3 +1,8 @@
+<blockquote>
+  <p><strong>Note:</strong> This repository is preserved in its last form created by the original developer, <a href="https://github.com/JimStar/">JimStar</a>.</p>
+</blockquote>
+
+
 <h2 align="center">
   <a href="https://reolink.com"><img src="./logo.png" width="200"></a>
   <br>
