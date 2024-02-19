@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/custom-components/hacs"><img src="https://img.shields.io/badge/HACS-Custom-orange.svg"></a>
-  <img src="https://img.shields.io/github/v/release/JimStar/reolink_cctv?display_name=tag&include_prereleases&sort=semver" alt="Current version">
+  <a ><img src="https://img.shields.io/badge/release-no_longer_available-critical" alt="release - no longer available"></a>
 </p>
 
 The `reolink_cctv` implementation allows you to integrate your [Reolink](https://www.reolink.com/) devices (NVR/cameras) in Home Assistant.
